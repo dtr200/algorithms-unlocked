@@ -1,5 +1,5 @@
-# T.Cormen Unlocked Algorithms in JavaScript
+# T.Cormen Algorithms Unlocked in JavaScript
 
-Here is my implementation of algorithms from T.Cormen "Unlocked Algorithms".
+Here is my implementation of algorithms from T.Cormen "Algorithms Unlocked".
 
 * Linear search
